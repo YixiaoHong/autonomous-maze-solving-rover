@@ -16,5 +16,4 @@ A group project from the course "Mechatronics Systems: Design & Integration". We
 - Main arduino program in folder "rover_arduino_code"
 - MATLAB code in folder "matlab_code"
 
-## See "project report.pdf"
-<a href="report.pdf" class="image fit">
+## See "project report.pdf" for more details
